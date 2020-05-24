@@ -21,3 +21,5 @@ Recommender System, Pearson Corelation Coefficient, Cosine Coefficient, Kendall 
 Submission Date - 20th April 2020
 
 Location - Bonn Germany
+
+Note: Recommended list is calculated on the basis of similar user's liking, which could be single or multiple, this us is the basis of bifurcating the complete thesis process. Same way, code is written for both the process, and results are also compared seperately.
